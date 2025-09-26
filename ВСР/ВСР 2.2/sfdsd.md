@@ -1,41 +1,37 @@
 # Аналитическая подборка по языку программирования Julia
 ## Официальный сайт JuliaLang
-**Ссылка**: https://julialang.org/
+The Julia Programming Language. — Текст : электронный // JuliaLang : [сайт]. — URL: https://julialang.org/ (дата обращения: 26.09.2025).
 
 **Аннотация**: Главный сайт языка программирования Julia. Содержит установщик, официальную документацию, блог о нововведениях и список пакетов.
 ___
 ## Официальная документация по языку Julia
-**Ссылка**: https://docs.julialang.org/en/v1/
+Julia 1.11 Documentation. — Текст : электронный // JuliaLang : [сайт]. — URL: https://docs.julialang.org/en/v1/ (дата обращения: 26.09.2025).
 
 **Аннотация**: счерпывающее руководство. Особенно важны разделы: **Введение**, **Выразительный синтаксис (Syntax)**, **Многопоточность (Multi-threading)**, **Распределенные вычисления (Distributed Computing)**.
 ___
 ## JuliaHub
-**Ссылка**: https://juliahub.com/
+. — Текст : электронный // JuliaHub : [сайт]. — URL: https://juliahub.com/ (дата обращения: 26.09.2025).
+
 
 **Аннотация**: Платформа от создателей Julia (компания Julia Computing). Содержит каталог пакетов, облачную среду выполнения и обучающие материалы.
 ___
 ## Discourse-форум Julia
-**Ссылка**: https://discourse.julialang.org/
+Disource-форум. — Текст : электронный // JuliaLang : [сайт]. — URL: https://discourse.julialang.org/ (дата обращения: 26.09.2025).
 
 **Аннотация**: Лучшее место для задавания вопросов. Активное и дружелюбное сообщество разработчиков и пользователей, включая создателей языка.
 ___
-## "The Julia Express" by Bogumił Kamiński
-**Ссылка**: https://bogumilkaminski.pl/files/julia_express.pdf
-
-**Аннотация**: Краткое и ёмкое введение в язык в формате PDF-брошюры. Отлично подходит для быстрого старта.
-___
 ## Julia Academy
-**Ссылка**: https://juliaacademy.com/
+The definitive source for learning all things Julia for free. — Текст : электронный // JuliaAcademy : [сайт]. — URL: https://juliaacademy.com/ (дата обращения: 26.09.2025).
 
 **Аннотация**: Бесплатные курсы от Julia Computing. Курс "Julia Essentials" — лучший способ сделать первые шаги с интерактивными заданиями.
 ___
 ## Статья: "Why We Created Julia"
-**Ссылка**: https://julialang.org/blog/2012/02/why-we-created-julia/
+Why We Created Julia / Jeff Bezanson Stefan Karpinski Viral B. Shah Alan Edelman. — Текст : электронный // JuliaLang : [сайт]. — URL: https://julialang.org/blog/2012/02/why-we-created-julia/ (дата обращения: 26.09.2025).
 
 **Аннотация**: Манифест создателей языка. Объясняет, почему Julia был создан как "быстрый, как C, гибкий, как Python, понятный, как R".
 ___
 ## Документация: Performance Tips
-**Ссылка**: https://docs.julialang.org/en/v1/manual/performance-tips/
+Performance Tips. — Текст : электронный // JuliaLang : [сайт]. — URL: https://docs.julialang.org/en/v1/manual/performance-tips/ (дата обращения: 26.09.2025).
 
 **Аннотация**: Обязательна к прочтению для написания эффективного кода на Julia. Объясняет, как устроен компилятор и как избегать главных "ловушек" производительности.
 
